@@ -36,7 +36,7 @@ This repository contains scripts to pre-process lottery data from an Excel file 
 Install the required packages using `pip`:
 
 ```
-python3 -m pip install openpyxl
+python3 -m pip install openpyxl matplotlib
 ```
 
 ### Running the Pre-processing Script
