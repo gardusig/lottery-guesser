@@ -86,10 +86,8 @@ def plot_ball_frequencies(ball_frequency_file):
         plt.xticks(balls)
         plt.grid(True)
         plt.tight_layout()
-        plt.savefig(f"./resources/generated/{pos}_ball_frequency.png")
+        plt.savefig(f"./generated/{pos}_ball_frequency.png")
         plt.close()
-
-    # Plot for overall top balls
     overall_balls = [entry["ball_number"] for entry in overall_top_balls]
     overall_frequencies = [entry["ball_frequency"]
                            for entry in overall_top_balls]
@@ -101,21 +99,20 @@ def plot_ball_frequencies(ball_frequency_file):
     plt.xticks(overall_balls)
     plt.grid(True)
     plt.tight_layout()
-    plt.savefig("./resources/generated/overall_top_balls_frequency.png")
+    plt.savefig("./generated/overall_top_balls_frequency.png")
     plt.close()
 
 
 def main():
-    input_file = "./resources/history.xlsx"
-    ball_frequency_file = "./resources/generated/ball_frequency.json"
-    results_json_file = "./resources/generated/previous_results.json"
+    input_file = "./resources/dupla-sena-history.xlsx"
+    ball_frequency_file = "./generated/ball_frequency.json"
+    results_json_file = "./generated/previous_results.json"
     frequency_at_index, previous_results = filter_and_sort_balls(input_file)
     top_balls_per_position = get_top_balls_per_position(frequency_at_index)
     overall_top_balls = get_overall_top_balls(frequency_at_index)
     save_to_json(ball_frequency_file,
                  top_balls_per_position, overall_top_balls)
     save_results_to_json(results_json_file, previous_results)
-
     plot_ball_frequencies(ball_frequency_file)
 
 

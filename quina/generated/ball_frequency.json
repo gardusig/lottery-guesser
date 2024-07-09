@@ -1,0 +1,602 @@
+{
+    "top_balls_per_position": [
+        {
+            "position_1": [
+                {
+                    "ball_number": 4,
+                    "ball_frequency": 394
+                },
+                {
+                    "ball_number": 1,
+                    "ball_frequency": 378
+                },
+                {
+                    "ball_number": 2,
+                    "ball_frequency": 375
+                },
+                {
+                    "ball_number": 5,
+                    "ball_frequency": 355
+                },
+                {
+                    "ball_number": 3,
+                    "ball_frequency": 323
+                },
+                {
+                    "ball_number": 6,
+                    "ball_frequency": 318
+                },
+                {
+                    "ball_number": 7,
+                    "ball_frequency": 284
+                },
+                {
+                    "ball_number": 9,
+                    "ball_frequency": 281
+                },
+                {
+                    "ball_number": 8,
+                    "ball_frequency": 280
+                },
+                {
+                    "ball_number": 10,
+                    "ball_frequency": 262
+                },
+                {
+                    "ball_number": 12,
+                    "ball_frequency": 229
+                },
+                {
+                    "ball_number": 11,
+                    "ball_frequency": 224
+                },
+                {
+                    "ball_number": 13,
+                    "ball_frequency": 197
+                },
+                {
+                    "ball_number": 14,
+                    "ball_frequency": 196
+                },
+                {
+                    "ball_number": 15,
+                    "ball_frequency": 190
+                },
+                {
+                    "ball_number": 16,
+                    "ball_frequency": 169
+                },
+                {
+                    "ball_number": 17,
+                    "ball_frequency": 162
+                },
+                {
+                    "ball_number": 19,
+                    "ball_frequency": 144
+                },
+                {
+                    "ball_number": 18,
+                    "ball_frequency": 141
+                },
+                {
+                    "ball_number": 20,
+                    "ball_frequency": 121
+                },
+                {
+                    "ball_number": 21,
+                    "ball_frequency": 105
+                },
+                {
+                    "ball_number": 22,
+                    "ball_frequency": 104
+                },
+                {
+                    "ball_number": 23,
+                    "ball_frequency": 100
+                },
+                {
+                    "ball_number": 26,
+                    "ball_frequency": 97
+                }
+            ]
+        },
+        {
+            "position_2": [
+                {
+                    "ball_number": 18,
+                    "ball_frequency": 198
+                },
+                {
+                    "ball_number": 21,
+                    "ball_frequency": 191
+                },
+                {
+                    "ball_number": 16,
+                    "ball_frequency": 190
+                },
+                {
+                    "ball_number": 13,
+                    "ball_frequency": 181
+                },
+                {
+                    "ball_number": 19,
+                    "ball_frequency": 174
+                },
+                {
+                    "ball_number": 23,
+                    "ball_frequency": 171
+                },
+                {
+                    "ball_number": 26,
+                    "ball_frequency": 171
+                },
+                {
+                    "ball_number": 22,
+                    "ball_frequency": 169
+                },
+                {
+                    "ball_number": 24,
+                    "ball_frequency": 169
+                },
+                {
+                    "ball_number": 14,
+                    "ball_frequency": 166
+                },
+                {
+                    "ball_number": 20,
+                    "ball_frequency": 166
+                },
+                {
+                    "ball_number": 15,
+                    "ball_frequency": 163
+                },
+                {
+                    "ball_number": 27,
+                    "ball_frequency": 161
+                },
+                {
+                    "ball_number": 25,
+                    "ball_frequency": 159
+                },
+                {
+                    "ball_number": 29,
+                    "ball_frequency": 157
+                },
+                {
+                    "ball_number": 12,
+                    "ball_frequency": 156
+                },
+                {
+                    "ball_number": 17,
+                    "ball_frequency": 152
+                },
+                {
+                    "ball_number": 11,
+                    "ball_frequency": 149
+                },
+                {
+                    "ball_number": 28,
+                    "ball_frequency": 144
+                },
+                {
+                    "ball_number": 31,
+                    "ball_frequency": 140
+                },
+                {
+                    "ball_number": 32,
+                    "ball_frequency": 140
+                },
+                {
+                    "ball_number": 33,
+                    "ball_frequency": 138
+                },
+                {
+                    "ball_number": 30,
+                    "ball_frequency": 137
+                },
+                {
+                    "ball_number": 38,
+                    "ball_frequency": 136
+                }
+            ]
+        },
+        {
+            "position_3": [
+                {
+                    "ball_number": 44,
+                    "ball_frequency": 183
+                },
+                {
+                    "ball_number": 42,
+                    "ball_frequency": 167
+                },
+                {
+                    "ball_number": 49,
+                    "ball_frequency": 167
+                },
+                {
+                    "ball_number": 52,
+                    "ball_frequency": 164
+                },
+                {
+                    "ball_number": 40,
+                    "ball_frequency": 163
+                },
+                {
+                    "ball_number": 38,
+                    "ball_frequency": 162
+                },
+                {
+                    "ball_number": 31,
+                    "ball_frequency": 160
+                },
+                {
+                    "ball_number": 37,
+                    "ball_frequency": 157
+                },
+                {
+                    "ball_number": 41,
+                    "ball_frequency": 157
+                },
+                {
+                    "ball_number": 36,
+                    "ball_frequency": 149
+                },
+                {
+                    "ball_number": 39,
+                    "ball_frequency": 149
+                },
+                {
+                    "ball_number": 51,
+                    "ball_frequency": 149
+                },
+                {
+                    "ball_number": 29,
+                    "ball_frequency": 147
+                },
+                {
+                    "ball_number": 33,
+                    "ball_frequency": 147
+                },
+                {
+                    "ball_number": 34,
+                    "ball_frequency": 145
+                },
+                {
+                    "ball_number": 45,
+                    "ball_frequency": 145
+                },
+                {
+                    "ball_number": 46,
+                    "ball_frequency": 144
+                },
+                {
+                    "ball_number": 43,
+                    "ball_frequency": 140
+                },
+                {
+                    "ball_number": 30,
+                    "ball_frequency": 138
+                },
+                {
+                    "ball_number": 26,
+                    "ball_frequency": 135
+                },
+                {
+                    "ball_number": 32,
+                    "ball_frequency": 133
+                },
+                {
+                    "ball_number": 54,
+                    "ball_frequency": 131
+                },
+                {
+                    "ball_number": 47,
+                    "ball_frequency": 129
+                },
+                {
+                    "ball_number": 50,
+                    "ball_frequency": 128
+                }
+            ]
+        },
+        {
+            "position_4": [
+                {
+                    "ball_number": 64,
+                    "ball_frequency": 199
+                },
+                {
+                    "ball_number": 61,
+                    "ball_frequency": 198
+                },
+                {
+                    "ball_number": 53,
+                    "ball_frequency": 189
+                },
+                {
+                    "ball_number": 54,
+                    "ball_frequency": 183
+                },
+                {
+                    "ball_number": 66,
+                    "ball_frequency": 178
+                },
+                {
+                    "ball_number": 56,
+                    "ball_frequency": 176
+                },
+                {
+                    "ball_number": 58,
+                    "ball_frequency": 175
+                },
+                {
+                    "ball_number": 59,
+                    "ball_frequency": 173
+                },
+                {
+                    "ball_number": 57,
+                    "ball_frequency": 170
+                },
+                {
+                    "ball_number": 63,
+                    "ball_frequency": 170
+                },
+                {
+                    "ball_number": 55,
+                    "ball_frequency": 169
+                },
+                {
+                    "ball_number": 49,
+                    "ball_frequency": 163
+                },
+                {
+                    "ball_number": 52,
+                    "ball_frequency": 157
+                },
+                {
+                    "ball_number": 60,
+                    "ball_frequency": 155
+                },
+                {
+                    "ball_number": 62,
+                    "ball_frequency": 149
+                },
+                {
+                    "ball_number": 65,
+                    "ball_frequency": 149
+                },
+                {
+                    "ball_number": 69,
+                    "ball_frequency": 148
+                },
+                {
+                    "ball_number": 68,
+                    "ball_frequency": 147
+                },
+                {
+                    "ball_number": 67,
+                    "ball_frequency": 144
+                },
+                {
+                    "ball_number": 70,
+                    "ball_frequency": 140
+                },
+                {
+                    "ball_number": 51,
+                    "ball_frequency": 135
+                },
+                {
+                    "ball_number": 48,
+                    "ball_frequency": 134
+                },
+                {
+                    "ball_number": 45,
+                    "ball_frequency": 133
+                },
+                {
+                    "ball_number": 50,
+                    "ball_frequency": 133
+                }
+            ]
+        },
+        {
+            "position_5": [
+                {
+                    "ball_number": 80,
+                    "ball_frequency": 399
+                },
+                {
+                    "ball_number": 79,
+                    "ball_frequency": 381
+                },
+                {
+                    "ball_number": 78,
+                    "ball_frequency": 368
+                },
+                {
+                    "ball_number": 77,
+                    "ball_frequency": 352
+                },
+                {
+                    "ball_number": 76,
+                    "ball_frequency": 324
+                },
+                {
+                    "ball_number": 75,
+                    "ball_frequency": 310
+                },
+                {
+                    "ball_number": 74,
+                    "ball_frequency": 300
+                },
+                {
+                    "ball_number": 73,
+                    "ball_frequency": 285
+                },
+                {
+                    "ball_number": 72,
+                    "ball_frequency": 266
+                },
+                {
+                    "ball_number": 71,
+                    "ball_frequency": 252
+                },
+                {
+                    "ball_number": 70,
+                    "ball_frequency": 244
+                },
+                {
+                    "ball_number": 69,
+                    "ball_frequency": 209
+                },
+                {
+                    "ball_number": 67,
+                    "ball_frequency": 190
+                },
+                {
+                    "ball_number": 68,
+                    "ball_frequency": 190
+                },
+                {
+                    "ball_number": 66,
+                    "ball_frequency": 176
+                },
+                {
+                    "ball_number": 63,
+                    "ball_frequency": 160
+                },
+                {
+                    "ball_number": 62,
+                    "ball_frequency": 157
+                },
+                {
+                    "ball_number": 65,
+                    "ball_frequency": 155
+                },
+                {
+                    "ball_number": 64,
+                    "ball_frequency": 142
+                },
+                {
+                    "ball_number": 61,
+                    "ball_frequency": 136
+                },
+                {
+                    "ball_number": 60,
+                    "ball_frequency": 133
+                },
+                {
+                    "ball_number": 59,
+                    "ball_frequency": 118
+                },
+                {
+                    "ball_number": 55,
+                    "ball_frequency": 101
+                },
+                {
+                    "ball_number": 57,
+                    "ball_frequency": 101
+                }
+            ]
+        }
+    ],
+    "overall_top_balls": [
+        {
+            "ball_number": 4,
+            "ball_frequency": 462
+        },
+        {
+            "ball_number": 49,
+            "ball_frequency": 449
+        },
+        {
+            "ball_number": 26,
+            "ball_frequency": 443
+        },
+        {
+            "ball_number": 52,
+            "ball_frequency": 441
+        },
+        {
+            "ball_number": 16,
+            "ball_frequency": 435
+        },
+        {
+            "ball_number": 31,
+            "ball_frequency": 435
+        },
+        {
+            "ball_number": 53,
+            "ball_frequency": 434
+        },
+        {
+            "ball_number": 39,
+            "ball_frequency": 433
+        },
+        {
+            "ball_number": 44,
+            "ball_frequency": 432
+        },
+        {
+            "ball_number": 29,
+            "ball_frequency": 429
+        },
+        {
+            "ball_number": 42,
+            "ball_frequency": 427
+        },
+        {
+            "ball_number": 15,
+            "ball_frequency": 426
+        },
+        {
+            "ball_number": 61,
+            "ball_frequency": 425
+        },
+        {
+            "ball_number": 56,
+            "ball_frequency": 424
+        },
+        {
+            "ball_number": 9,
+            "ball_frequency": 423
+        },
+        {
+            "ball_number": 73,
+            "ball_frequency": 423
+        },
+        {
+            "ball_number": 5,
+            "ball_frequency": 422
+        },
+        {
+            "ball_number": 10,
+            "ball_frequency": 422
+        },
+        {
+            "ball_number": 18,
+            "ball_frequency": 421
+        },
+        {
+            "ball_number": 37,
+            "ball_frequency": 420
+        },
+        {
+            "ball_number": 40,
+            "ball_frequency": 420
+        },
+        {
+            "ball_number": 66,
+            "ball_frequency": 420
+        },
+        {
+            "ball_number": 54,
+            "ball_frequency": 419
+        },
+        {
+            "ball_number": 38,
+            "ball_frequency": 418
+        }
+    ]
+}
